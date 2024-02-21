@@ -18,3 +18,37 @@ Actualmente estou trabalhando em auxiliar de logistica,estou estudando Analise e
 
 ![Tecnologia](https://abstartups.com.br/wp-content/uploads/2018/10/Qual-a-tecnologia.jpg)
 -->
+
+### Algumas tags HTML que estou aprendendo:
+```html
+<!DOCTYPE html>
+<html lang="pt-Br">
+   <head>
+   <meta charset="UTF-8">  
+   <title>Minha pagina</title>
+   </head>  
+  <body>
+    <h1>Minha apgina</h1>
+    <p>Meu paragrafo</p>
+  </body>
+</html>
+```
+Essa tag "<DOCTYPE html>
+                  
+</body>
+
+
+
+
+
+
+
+### Tabela de proficiécia em línguas
+
+Idioma  | Nível
+:---------: | :-------------:
+Inglés | Intermediário
+
+Espanhol | Básico
+
+
