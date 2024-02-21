@@ -48,7 +48,6 @@ Essa tag "<DOCTYPE html>
 Idioma  | Nível
 :---------: | :-------------:
 Inglés | Intermediário
-
 Espanhol | Básico
 
 
