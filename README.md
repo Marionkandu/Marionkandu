@@ -7,4 +7,14 @@ Actualmente estou trabalhando em auxiliar de logistica,estou estudando Analise e
 
 
 
+
+
+
+
+
+
+
+
+
+![Tecnologia](https://abstartups.com.br/wp-content/uploads/2018/10/Qual-a-tecnologia.jpg)
 -->
